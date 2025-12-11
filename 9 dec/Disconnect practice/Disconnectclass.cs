@@ -37,6 +37,10 @@ namespace Disconnect_practice
         DataTable dt = new DataTable();
         DataSet ds = new DataSet();// can hold the output (many output)
         SqlDataAdapter da;
+
+        DataTable dt1= new DataTable();
+        DataSet ds1 = new DataSet();// can hold the output (many output)
+        SqlDataAdapter da1;
         public void showAllEmployee()
         {
             SqlConnection con = new SqlConnection("Integrated security=true;database=dbo_db;server=(localdb)\\MSSQLLocalDB");
@@ -238,6 +242,26 @@ namespace Disconnect_practice
                 Console.WriteLine("No Changes has happened in datatable ");
             }
             // ds.GetChanges
+
+        }
+        public void realationship()
+        {
+
+            SqlConnection con = new SqlConnection("Integrated security=true;database=dbo_db;server=(localdb)\\MSSQLLocalDB");
+            da = new SqlDataAdapter("select * from employee", con);
+            da1 = new SqlDataAdapter("select * from department", con);
+
+            da.Fill(ds, "emp");
+            dt = ds.Tables["emp"];//now dt contains the output of emp
+
+            da1.Fill(ds1, "dept");
+            dt1 = ds1.Tables["dept"];//now dt contains the output of emp
+
+
+            DataRelation drr=new DataRelation("checking realtion",dt1)
+
+            dt.Rows.Add(null, "Raj1", 30000, "1-1-2000", 10);
+
 
         }
 

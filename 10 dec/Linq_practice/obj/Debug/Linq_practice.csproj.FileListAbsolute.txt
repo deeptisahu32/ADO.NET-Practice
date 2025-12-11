@@ -1,0 +1,8 @@
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\10 dec\Linq_practice\bin\Debug\Linq_practice.exe.config
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\10 dec\Linq_practice\bin\Debug\Linq_practice.exe
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\10 dec\Linq_practice\bin\Debug\Linq_practice.pdb
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\10 dec\Linq_practice\obj\Debug\Linq_practice.csproj.AssemblyReference.cache
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\10 dec\Linq_practice\obj\Debug\Linq_practice.csproj.CoreCompileInputs.cache
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\10 dec\Linq_practice\obj\Debug\Linq_practice.exe
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\10 dec\Linq_practice\obj\Debug\Linq_practice.pdb
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\10 dec\Linq_practice\obj\Debug\Linq_practice.exe.config
