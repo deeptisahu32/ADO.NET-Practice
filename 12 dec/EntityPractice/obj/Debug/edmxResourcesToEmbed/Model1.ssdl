@@ -29,6 +29,9 @@
       </Dependent>
     </ReferentialConstraint>
   </Association>
+  <Function Name="searchbysal" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="s" Type="int" Mode="In" />
+  </Function>
   <EntityContainer Name="dbo_dbModelStoreContainer">
     <EntitySet Name="Department" EntityType="Self.Department" Schema="dbo" store:Type="Tables" />
     <EntitySet Name="Employee" EntityType="Self.Employee" Schema="dbo" store:Type="Tables" />

@@ -12,6 +12,8 @@ namespace EntityPractice
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
+    using System.Data.Entity.Core.Objects;
+    using System.Linq;
     
     public partial class dbo_dbEntities1 : DbContext
     {
@@ -27,5 +29,14 @@ namespace EntityPractice
     
         public virtual DbSet<Department> Departments { get; set; }
         public virtual DbSet<Employee> Employees { get; set; }
+    
+        public virtual ObjectResult<searchbysal_Result> searchbysal(Nullable<int> s)
+        {
+            var sParameter = s.HasValue ?
+                new ObjectParameter("s", s) :
+                new ObjectParameter("s", typeof(int));
+    
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<searchbysal_Result>("searchbysal", sParameter);
+        }
     }
 }

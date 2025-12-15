@@ -1,0 +1,29 @@
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\12 dec ADO.NET Test\Codefirstpractice\bin\Debug\Codefirstpractice.exe.config
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\12 dec ADO.NET Test\Codefirstpractice\bin\Debug\Codefirstpractice.exe
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\12 dec ADO.NET Test\Codefirstpractice\bin\Debug\Codefirstpractice.pdb
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\12 dec ADO.NET Test\Codefirstpractice\bin\Debug\EntityFramework.dll
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\12 dec ADO.NET Test\Codefirstpractice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\12 dec ADO.NET Test\Codefirstpractice\bin\Debug\EntityFramework.xml
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\12 dec ADO.NET Test\Codefirstpractice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\12 dec ADO.NET Test\Codefirstpractice\obj\Debug\Codefirstpractice.csproj.AssemblyReference.cache
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\12 dec ADO.NET Test\Codefirstpractice\obj\Debug\Codefirstpractice.csproj.CoreCompileInputs.cache
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\12 dec ADO.NET Test\Codefirstpractice\obj\Debug\Codefirs.8BC3826D.Up2Date
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\12 dec ADO.NET Test\Codefirstpractice\obj\Debug\Codefirstpractice.exe
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\12 dec ADO.NET Test\Codefirstpractice\obj\Debug\Codefirstpractice.pdb
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\assignment\12 dec ADO.NET Test\Codefirstpractice\obj\Debug\Codefirstpractice.exe.config
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\15 dec\Codefirstpractice\bin\Debug\Codefirstpractice.exe.config
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\15 dec\Codefirstpractice\bin\Debug\Codefirstpractice.exe
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\15 dec\Codefirstpractice\bin\Debug\Codefirstpractice.pdb
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\15 dec\Codefirstpractice\bin\Debug\EntityFramework.dll
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\15 dec\Codefirstpractice\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\15 dec\Codefirstpractice\bin\Debug\EntityFramework.xml
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\15 dec\Codefirstpractice\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\15 dec\Codefirstpractice\obj\Debug\Codefirstpractice.csproj.AssemblyReference.cache
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\15 dec\Codefirstpractice\obj\Debug\Codefirstpractice.csproj.CoreCompileInputs.cache
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\15 dec\Codefirstpractice\obj\Debug\Codefirs.8BC3826D.Up2Date
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\15 dec\Codefirstpractice\obj\Debug\Codefirstpractice.exe
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\15 dec\Codefirstpractice\obj\Debug\Codefirstpractice.pdb
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\15 dec\Codefirstpractice\obj\Debug\Codefirstpractice.exe.config
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\15 dec\Codefirstpractice\obj\Debug\Codefirstpractice.Migrations.InitialCreate.resources
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\15 dec\Codefirstpractice\obj\Debug\Codefirstpractice.csproj.GenerateResource.cache
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\15 dec\Codefirstpractice\obj\Debug\Codefirstpractice.Migrations.InitialCreate1.resources

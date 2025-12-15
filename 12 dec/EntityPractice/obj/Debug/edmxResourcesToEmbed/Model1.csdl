@@ -38,5 +38,15 @@
       <End Role="Department" EntitySet="Departments" />
       <End Role="Employee" EntitySet="Employees" />
     </AssociationSet>
+    <FunctionImport Name="searchbysal" ReturnType="Collection(dbo_dbModel.searchbysal_Result)">
+      <Parameter Name="s" Mode="In" Type="Int32" />
+    </FunctionImport>
   </EntityContainer>
+  <ComplexType Name="searchbysal_Result">
+    <Property Type="Int32" Name="EmpID" Nullable="false" />
+    <Property Type="String" Name="EmpName" Nullable="true" MaxLength="100" />
+    <Property Type="Decimal" Name="Salary" Nullable="true" Precision="10" Scale="2" />
+    <Property Type="DateTime" Name="DateOfJoin" Nullable="true" />
+    <Property Type="Int32" Name="DeptID" Nullable="true" />
+  </ComplexType>
 </Schema>
