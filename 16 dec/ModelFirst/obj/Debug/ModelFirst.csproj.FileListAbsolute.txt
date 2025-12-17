@@ -1,0 +1,13 @@
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\16 dec\ModelFirst\bin\Debug\ModelFirst.exe.config
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\16 dec\ModelFirst\bin\Debug\ModelFirst.exe
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\16 dec\ModelFirst\bin\Debug\ModelFirst.pdb
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\16 dec\ModelFirst\bin\Debug\EntityFramework.dll
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\16 dec\ModelFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\16 dec\ModelFirst\bin\Debug\EntityFramework.xml
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\16 dec\ModelFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\16 dec\ModelFirst\obj\Debug\ModelFirst.csproj.AssemblyReference.cache
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\16 dec\ModelFirst\obj\Debug\ModelFirst.csproj.CoreCompileInputs.cache
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\16 dec\ModelFirst\obj\Debug\ModelFirst.csproj.Up2Date
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\16 dec\ModelFirst\obj\Debug\ModelFirst.exe
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\16 dec\ModelFirst\obj\Debug\ModelFirst.pdb
+C:\Users\deeptisa\OneDrive - Infinite Computer Solutions (India) Limited\Desktop\training_session_2\dec\practice\16 dec\ModelFirst\obj\Debug\ModelFirst.exe.config
